@@ -1,3 +1,9 @@
+This is a Fork, to fix some of the glareing issues
+
+Thanks to burghardt for the heavy lifting
+
+(Not modded yet)
+
 # easy-wg-quick
 easy-wg-quick - Creates Wireguard configuration for hub and peers with ease
 
