@@ -2,6 +2,9 @@ This is a Fork, to fix some of the glareing issues
 
 Thanks to burghardt for the heavy lifting
 
+
+My goal is just to use a default setup
+
 (Not modded yet)
 
 # easy-wg-quick
